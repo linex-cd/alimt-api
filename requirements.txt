@@ -1,0 +1,3 @@
+alibabacloud_alimt20181012==1.3.0
+fastapi==0.75.1
+unicorn
